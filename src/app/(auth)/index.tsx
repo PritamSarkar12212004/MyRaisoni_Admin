@@ -1,4 +1,4 @@
-import { View, Text, Image } from "react-native";
+import { View, Text } from "react-native";
 import React from "react";
 import MainAuthWrapwr from "@/src/wraper/MainAuthWrapwr";
 import LoginButton from "@/src/components/auth/LoginButton";
