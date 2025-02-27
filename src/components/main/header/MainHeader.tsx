@@ -34,10 +34,10 @@ const MainHeader = () => {
       </TouchableOpacity>
       <View className="flex-row items-center justify-center gap-3">
         <TouchableOpacity className="h-14 w-14 border-[2px] border-gray-400 rounded-full flex items-center justify-center">
-          <Ionicons name="notifications-sharp" size={24} color="gray" />
+          <Ionicons name="notifications-sharp" size={24} color="#FAFDFF" />
         </TouchableOpacity>
         <TouchableOpacity className="h-14 w-14 border-[2px] border-gray-400 rounded-full flex items-center justify-center">
-          <Entypo name="calendar" size={24} color="gray" />
+          <Entypo name="calendar" size={24} color="#FAFDFF" />
         </TouchableOpacity>
       </View>
     </View>
